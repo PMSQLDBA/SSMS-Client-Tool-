@@ -1,0 +1,38 @@
+SQL Server Management Studio (SSMS) Versions
+
+https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html#google_vignette
+
+https://learn.microsoft.com/en-us/ssms/release-history
+
+https://glennsqlperformance.com/2024/01/11/ssms-19-3-is-available/
+
+
+-- Microsoft SQL Server Management Studio (SSMS or S.S.M.S.) is the integrated environment for managing your SQL Server infrastructure. 
+-- SQL Server Management Studio presents a graphical interface for configuring, monitoring, and administering instances of SQL Server. 
+-- It also allows you to deploy, monitor, and upgrade the data-tier components used by your applications, such as databases. 
+-- SQL Server Management Studio also provides Transact-SQL, MDX, DMX, and XML language editors for editing and debugging scripts.
+
+Management Studio is a completely standalone product, not tied to any specific version or edition of SQL Server, and no longer requires licensing of any kind.
+
+Quick Summary:
+============================================================================
+Version	                        Build number	Release year	Download latest
+============================================================================
+SQL Server Management Studio 21	21.x.x.x	2025	Direct download 21.4.8
+SQL Server Management Studio 20	20.0.x.x	2024	Direct download 20.2.1
+SQL Server Management Studio 19	19.0.x.x	2023	Direct download 19.3
+SQL Server Management Studio 18	15.0.x.x	2019	Direct download 18.12.1
+SQL Server Management Studio 17	14.0.x.x	2017	Direct download 17.9.1
+SQL Server Management Studio 16	13.0.x.x	2016	Direct download 16.5.3
+============================================================================
+
+Not standalone (integral part of SQL Server):
+============================================================================
+Version	                          Build number	Release year	Download latest
+============================================================================
+SQL Server Management Studio 2014	12.0.x.x	2014	Download 2014
+SQL Server Management Studio 2012	11.0.x.x	2012	Download 2012
+SQL Server Management Studio 2008 R2	10.50.x.x	2010	Download 2008 R2
+SQL Server Management Studio 2008	10.0.x.x	2008	Download 2008
+SQL Server Management Studio 2005	9.0.x.x	2005	
+SSMS 18 can be installed side-by-side with SSMS 17 / 16 or SQL Server 2014 SSMS and earlier.
